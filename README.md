@@ -6,6 +6,6 @@
 -->
 		<img width="500em" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=NathanHolyland&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" />
 		  <img width="500em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanHolyland&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="NathanHolyland"/>
-		  	<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=freddycansic/freddycansic" />
+		  	<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=NathanHolyland/NathanHolyland" />
 	</a>
 </p>
